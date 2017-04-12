@@ -1,0 +1,1920 @@
+
+ 
+>> statistic_result
+
+index1 =
+
+Image 1:PatchSize:5 window size:5 h:0.4
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 23.93965046; PSNR: 27.78489996
+
+index2 =
+
+Image 2:PatchSize:5 window size:5 h:0.4
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 24.293222; PSNR: 29.69773684
+
+index3 =
+
+Image 3:PatchSize:5 window size:5 h:0.4
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 21.01259513; PSNR: 25.94142516
+
+index1 =
+
+Image 1:PatchSize:5 window size:5 h:0.5
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 23.26888079; PSNR: 27.11413028
+
+index2 =
+
+Image 2:PatchSize:5 window size:5 h:0.5
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 23.38512526; PSNR: 28.78964011
+
+index3 =
+
+Image 3:PatchSize:5 window size:5 h:0.5
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 19.56538613; PSNR: 24.49421616
+
+index1 =
+
+Image 1:PatchSize:5 window size:5 h:0.6
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 22.74429859; PSNR: 26.58954809
+
+index2 =
+
+Image 2:PatchSize:5 window size:5 h:0.6
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 22.66989078; PSNR: 28.07440562
+
+index3 =
+
+Image 3:PatchSize:5 window size:5 h:0.6
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 18.59109203; PSNR: 23.51992206
+
+index1 =
+
+Image 1:PatchSize:5 window size:5 h:0.7
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 22.32032732; PSNR: 26.16557681
+
+index2 =
+
+Image 2:PatchSize:5 window size:5 h:0.7
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 22.08374753; PSNR: 27.48826237
+
+index3 =
+
+Image 3:PatchSize:5 window size:5 h:0.7
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 17.91958998; PSNR: 22.84842001
+
+index1 =
+
+Image 1:PatchSize:5 window size:5 h:0.8
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 21.96919489; PSNR: 25.81444439
+
+index2 =
+
+Image 2:PatchSize:5 window size:5 h:0.8
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 21.59430912; PSNR: 26.99882396
+
+index3 =
+
+Image 3:PatchSize:5 window size:5 h:0.8
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 17.43701094; PSNR: 22.36584097
+
+index1 =
+
+Image 1:PatchSize:5 window size:9 h:0.4
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 23.01206273; PSNR: 26.85731223
+
+index2 =
+
+Image 2:PatchSize:5 window size:9 h:0.4
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 23.11718883; PSNR: 28.52170368
+
+index3 =
+
+Image 3:PatchSize:5 window size:9 h:0.4
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 19.79731562; PSNR: 24.72614565
+
+index1 =
+
+Image 1:PatchSize:5 window size:9 h:0.5
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 22.25665969; PSNR: 26.10190919
+
+index2 =
+
+Image 2:PatchSize:5 window size:9 h:0.5
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 22.17067833; PSNR: 27.57519317
+
+index3 =
+
+Image 3:PatchSize:5 window size:9 h:0.5
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 18.40893551; PSNR: 23.33776554
+
+index1 =
+
+Image 1:PatchSize:5 window size:9 h:0.6
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 21.66178528; PSNR: 25.50703477
+
+index2 =
+
+Image 2:PatchSize:5 window size:9 h:0.6
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 21.41963922; PSNR: 26.82415407
+
+index3 =
+
+Image 3:PatchSize:5 window size:9 h:0.6
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 17.50415082; PSNR: 22.43298085
+
+index1 =
+
+Image 1:PatchSize:5 window size:9 h:0.7
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 21.18108825; PSNR: 25.02633775
+
+index2 =
+
+Image 2:PatchSize:5 window size:9 h:0.7
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 20.80684733; PSNR: 26.21136217
+
+index3 =
+
+Image 3:PatchSize:5 window size:9 h:0.7
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 16.88442207; PSNR: 21.8132521
+
+index1 =
+
+Image 1:PatchSize:5 window size:9 h:0.8
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 20.78454487; PSNR: 24.62979436
+
+index2 =
+
+Image 2:PatchSize:5 window size:9 h:0.8
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 20.29876789; PSNR: 25.70328273
+
+index3 =
+
+Image 3:PatchSize:5 window size:9 h:0.8
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 16.43364081; PSNR: 21.36247084
+
+index1 =
+
+Image 1:PatchSize:5 window size:13 h:0.4
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 22.54631299; PSNR: 26.39156248
+
+index2 =
+
+Image 2:PatchSize:5 window size:13 h:0.4
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 22.54381442; PSNR: 27.94832926
+
+index3 =
+
+Image 3:PatchSize:5 window size:13 h:0.4
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 19.15482258; PSNR: 24.08365261
+
+index1 =
+
+Image 1:PatchSize:5 window size:13 h:0.5
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 21.76399035; PSNR: 25.60923985
+
+index2 =
+
+Image 2:PatchSize:5 window size:13 h:0.5
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 21.58197691; PSNR: 26.98649175
+
+index3 =
+
+Image 3:PatchSize:5 window size:13 h:0.5
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 17.8667655; PSNR: 22.79559553
+
+index1 =
+
+Image 1:PatchSize:5 window size:13 h:0.6
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 21.15212081; PSNR: 24.99737031
+
+index2 =
+
+Image 2:PatchSize:5 window size:13 h:0.6
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 20.82303837; PSNR: 26.22755321
+
+index3 =
+
+Image 3:PatchSize:5 window size:13 h:0.6
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 17.04778979; PSNR: 21.97661982
+
+index1 =
+
+Image 1:PatchSize:5 window size:13 h:0.7
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 20.66099661; PSNR: 24.50624611
+
+index2 =
+
+Image 2:PatchSize:5 window size:13 h:0.7
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 20.20947374; PSNR: 25.61398859
+
+index3 =
+
+Image 3:PatchSize:5 window size:13 h:0.7
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 16.48670244; PSNR: 21.41553247
+
+index1 =
+
+Image 1:PatchSize:5 window size:13 h:0.8
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 20.25641196; PSNR: 24.10166146
+
+index2 =
+
+Image 2:PatchSize:5 window size:13 h:0.8
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 19.7019404; PSNR: 25.10645524
+
+index3 =
+
+Image 3:PatchSize:5 window size:13 h:0.8
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 16.07270864; PSNR: 21.00153867
+
+index1 =
+
+Image 1:PatchSize:5 window size:17 h:0.4
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 22.24480853; PSNR: 26.09005803
+
+index2 =
+
+Image 2:PatchSize:5 window size:17 h:0.4
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 22.15569046; PSNR: 27.5602053
+
+index3 =
+
+Image 3:PatchSize:5 window size:17 h:0.4
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 18.75412685; PSNR: 23.68295688
+
+index1 =
+
+Image 1:PatchSize:5 window size:17 h:0.5
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 21.4616516; PSNR: 25.3069011
+
+index2 =
+
+Image 2:PatchSize:5 window size:17 h:0.5
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 21.18717816; PSNR: 26.591693
+
+index3 =
+
+Image 3:PatchSize:5 window size:17 h:0.5
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 17.55930368; PSNR: 22.48813371
+
+index1 =
+
+Image 1:PatchSize:5 window size:17 h:0.6
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 20.85112066; PSNR: 24.69637015
+
+index2 =
+
+Image 2:PatchSize:5 window size:17 h:0.6
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 20.42796435; PSNR: 25.8324792
+
+index3 =
+
+Image 3:PatchSize:5 window size:17 h:0.6
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 16.8065768; PSNR: 21.73540683
+
+index1 =
+
+Image 1:PatchSize:5 window size:17 h:0.7
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 20.361159; PSNR: 24.20640849
+
+index2 =
+
+Image 2:PatchSize:5 window size:17 h:0.7
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 19.81849659; PSNR: 25.22301143
+
+index3 =
+
+Image 3:PatchSize:5 window size:17 h:0.7
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 16.28667671; PSNR: 21.21550674
+
+index1 =
+
+Image 1:PatchSize:5 window size:17 h:0.8
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 19.95754839; PSNR: 23.80279788
+
+index2 =
+
+Image 2:PatchSize:5 window size:17 h:0.8
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 19.31801776; PSNR: 24.7225326
+
+index3 =
+
+Image 3:PatchSize:5 window size:17 h:0.8
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 15.89670151; PSNR: 20.82553154
+
+index1 =
+
+Image 1:PatchSize:5 window size:21 h:0.4
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 22.02678518; PSNR: 25.87203468
+
+index2 =
+
+Image 2:PatchSize:5 window size:21 h:0.4
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 21.88935715; PSNR: 27.29387199
+
+index3 =
+
+Image 3:PatchSize:5 window size:21 h:0.4
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 18.46657568; PSNR: 23.39540571
+
+index1 =
+
+Image 1:PatchSize:5 window size:21 h:0.5
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 21.2455335; PSNR: 25.09078299
+
+index2 =
+
+Image 2:PatchSize:5 window size:21 h:0.5
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 20.93628294; PSNR: 26.34079778
+
+index3 =
+
+Image 3:PatchSize:5 window size:21 h:0.5
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 17.34968679; PSNR: 22.27851682
+
+index1 =
+
+Image 1:PatchSize:5 window size:21 h:0.6
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 20.64191863; PSNR: 24.48716813
+
+index2 =
+
+Image 2:PatchSize:5 window size:21 h:0.6
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 20.19281118; PSNR: 25.59732602
+
+index3 =
+
+Image 3:PatchSize:5 window size:21 h:0.6
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 16.65007326; PSNR: 21.57890329
+
+index1 =
+
+Image 1:PatchSize:5 window size:21 h:0.7
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 20.16089721; PSNR: 24.0061467
+
+index2 =
+
+Image 2:PatchSize:5 window size:21 h:0.7
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 19.59715054; PSNR: 25.00166538
+
+index3 =
+
+Image 3:PatchSize:5 window size:21 h:0.7
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 16.16198602; PSNR: 21.09081605
+
+index1 =
+
+Image 1:PatchSize:5 window size:21 h:0.8
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 19.76656909; PSNR: 23.61181858
+
+index2 =
+
+Image 2:PatchSize:5 window size:21 h:0.8
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 19.10722776; PSNR: 24.5117426
+
+index3 =
+
+Image 3:PatchSize:5 window size:21 h:0.8
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 15.7903344; PSNR: 20.71916443
+
+index1 =
+
+Image 1:PatchSize:9 window size:5 h:0.4
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 26.87919894; PSNR: 30.72444844
+
+index2 =
+
+Image 2:PatchSize:9 window size:5 h:0.4
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 29.61101657; PSNR: 35.01553142
+
+index3 =
+
+Image 3:PatchSize:9 window size:5 h:0.4
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 26.78446995; PSNR: 31.71329998
+
+index1 =
+
+Image 1:PatchSize:9 window size:5 h:0.5
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 26.68103452; PSNR: 30.52628401
+
+index2 =
+
+Image 2:PatchSize:9 window size:5 h:0.5
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 28.48802293; PSNR: 33.89253777
+
+index3 =
+
+Image 3:PatchSize:9 window size:5 h:0.5
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 26.38779675; PSNR: 31.31662678
+
+index1 =
+
+Image 1:PatchSize:9 window size:5 h:0.6
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 26.23215849; PSNR: 30.07740798
+
+index2 =
+
+Image 2:PatchSize:9 window size:5 h:0.6
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 27.52374829; PSNR: 32.92826313
+
+index3 =
+
+Image 3:PatchSize:9 window size:5 h:0.6
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 25.91451867; PSNR: 30.8433487
+
+index1 =
+
+Image 1:PatchSize:9 window size:5 h:0.7
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 25.72523365; PSNR: 29.57048314
+
+index2 =
+
+Image 2:PatchSize:9 window size:5 h:0.7
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 26.70716474; PSNR: 32.11167958
+
+index3 =
+
+Image 3:PatchSize:9 window size:5 h:0.7
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 25.34224846; PSNR: 30.27107849
+
+index1 =
+
+Image 1:PatchSize:9 window size:5 h:0.8
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 25.23981649; PSNR: 29.08506598
+
+index2 =
+
+Image 2:PatchSize:9 window size:5 h:0.8
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 26.01115557; PSNR: 31.41567042
+
+index3 =
+
+Image 3:PatchSize:9 window size:5 h:0.8
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 24.65730246; PSNR: 29.58613249
+
+index1 =
+
+Image 1:PatchSize:9 window size:9 h:0.4
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 26.62246307; PSNR: 30.46771257
+
+index2 =
+
+Image 2:PatchSize:9 window size:9 h:0.4
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 28.64616335; PSNR: 34.05067819
+
+index3 =
+
+Image 3:PatchSize:9 window size:9 h:0.4
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 26.44243954; PSNR: 31.37126957
+
+index1 =
+
+Image 1:PatchSize:9 window size:9 h:0.5
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 26.16088605; PSNR: 30.00613554
+
+index2 =
+
+Image 2:PatchSize:9 window size:9 h:0.5
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 27.46113444; PSNR: 32.86564928
+
+index3 =
+
+Image 3:PatchSize:9 window size:9 h:0.5
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 25.88077251; PSNR: 30.80960254
+
+index1 =
+
+Image 1:PatchSize:9 window size:9 h:0.6
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 25.53051801; PSNR: 29.3757675
+
+index2 =
+
+Image 2:PatchSize:9 window size:9 h:0.6
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 26.44793063; PSNR: 31.85244548
+
+index3 =
+
+Image 3:PatchSize:9 window size:9 h:0.6
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 25.25676126; PSNR: 30.18559129
+
+index1 =
+
+Image 1:PatchSize:9 window size:9 h:0.7
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 24.91593227; PSNR: 28.76118176
+
+index2 =
+
+Image 2:PatchSize:9 window size:9 h:0.7
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 25.59322599; PSNR: 30.99774083
+
+index3 =
+
+Image 3:PatchSize:9 window size:9 h:0.7
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 24.55551469; PSNR: 29.48434472
+
+index1 =
+
+Image 1:PatchSize:9 window size:9 h:0.8
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 24.36307139; PSNR: 28.20832089
+
+index2 =
+
+Image 2:PatchSize:9 window size:9 h:0.8
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 24.86822186; PSNR: 30.2727367
+
+index3 =
+
+Image 3:PatchSize:9 window size:9 h:0.8
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 23.76575614; PSNR: 28.69458617
+
+index1 =
+
+Image 1:PatchSize:9 window size:13 h:0.4
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 26.37074398; PSNR: 30.21599348
+
+index2 =
+
+Image 2:PatchSize:9 window size:13 h:0.4
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 28.11702002; PSNR: 33.52153487
+
+index3 =
+
+Image 3:PatchSize:9 window size:13 h:0.4
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 26.14724447; PSNR: 31.0760745
+
+index1 =
+
+Image 1:PatchSize:9 window size:13 h:0.5
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 25.77946537; PSNR: 29.62471487
+
+index2 =
+
+Image 2:PatchSize:9 window size:13 h:0.5
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 26.90939489; PSNR: 32.31390974
+
+index3 =
+
+Image 3:PatchSize:9 window size:13 h:0.5
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 25.47747426; PSNR: 30.40630429
+
+index1 =
+
+Image 1:PatchSize:9 window size:13 h:0.6
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 25.08421544; PSNR: 28.92946493
+
+index2 =
+
+Image 2:PatchSize:9 window size:13 h:0.6
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 25.87609578; PSNR: 31.28061062
+
+index3 =
+
+Image 3:PatchSize:9 window size:13 h:0.6
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 24.76443052; PSNR: 29.69326055
+
+index1 =
+
+Image 1:PatchSize:9 window size:13 h:0.7
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 24.43782405; PSNR: 28.28307354
+
+index2 =
+
+Image 2:PatchSize:9 window size:13 h:0.7
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 25.00557182; PSNR: 30.41008666
+
+index3 =
+
+Image 3:PatchSize:9 window size:13 h:0.7
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 23.99196326; PSNR: 28.92079329
+
+index1 =
+
+Image 1:PatchSize:9 window size:13 h:0.8
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 23.86475975; PSNR: 27.71000924
+
+index2 =
+
+Image 2:PatchSize:9 window size:13 h:0.8
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 24.26649713; PSNR: 29.67101197
+
+index3 =
+
+Image 3:PatchSize:9 window size:13 h:0.8
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 23.14540083; PSNR: 28.07423086
+
+index1 =
+
+Image 1:PatchSize:9 window size:17 h:0.4
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 26.18641745; PSNR: 30.03166695
+
+index2 =
+
+Image 2:PatchSize:9 window size:17 h:0.4
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 27.78173227; PSNR: 33.18624712
+
+index3 =
+
+Image 3:PatchSize:9 window size:17 h:0.4
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 25.93153848; PSNR: 30.86036851
+
+index1 =
+
+Image 1:PatchSize:9 window size:17 h:0.5
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 25.5130633; PSNR: 29.35831279
+
+index2 =
+
+Image 2:PatchSize:9 window size:17 h:0.5
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 26.55395575; PSNR: 31.95847059
+
+index3 =
+
+Image 3:PatchSize:9 window size:17 h:0.5
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 25.19814952; PSNR: 30.12697955
+
+index1 =
+
+Image 1:PatchSize:9 window size:17 h:0.6
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 24.78063638; PSNR: 28.62588588
+
+index2 =
+
+Image 2:PatchSize:9 window size:17 h:0.6
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 25.5005804; PSNR: 30.90509525
+
+index3 =
+
+Image 3:PatchSize:9 window size:17 h:0.6
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 24.43036232; PSNR: 29.35919235
+
+index1 =
+
+Image 1:PatchSize:9 window size:17 h:0.7
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 24.11645036; PSNR: 27.96169985
+
+index2 =
+
+Image 2:PatchSize:9 window size:17 h:0.7
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 24.6118647; PSNR: 30.01637954
+
+index3 =
+
+Image 3:PatchSize:9 window size:17 h:0.7
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 23.60857005; PSNR: 28.53740008
+
+index1 =
+
+Image 1:PatchSize:9 window size:17 h:0.8
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 23.53203584; PSNR: 27.37728533
+
+index2 =
+
+Image 2:PatchSize:9 window size:17 h:0.8
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 23.86054038; PSNR: 29.26505523
+
+index3 =
+
+Image 3:PatchSize:9 window size:17 h:0.8
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 22.72044656; PSNR: 27.64927659
+
+index1 =
+
+Image 1:PatchSize:9 window size:21 h:0.4
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 26.04719955; PSNR: 29.89244905
+
+index2 =
+
+Image 2:PatchSize:9 window size:21 h:0.4
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 27.52743936; PSNR: 32.9319542
+
+index3 =
+
+Image 3:PatchSize:9 window size:21 h:0.4
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 25.77707094; PSNR: 30.70590097
+
+index1 =
+
+Image 1:PatchSize:9 window size:21 h:0.5
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 25.31492535; PSNR: 29.16017485
+
+index2 =
+
+Image 2:PatchSize:9 window size:21 h:0.5
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 26.28209072; PSNR: 31.68660556
+
+index3 =
+
+Image 3:PatchSize:9 window size:21 h:0.5
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 24.99790442; PSNR: 29.92673445
+
+index1 =
+
+Image 1:PatchSize:9 window size:21 h:0.6
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 24.5571133; PSNR: 28.4023628
+
+index2 =
+
+Image 2:PatchSize:9 window size:21 h:0.6
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 25.21777053; PSNR: 30.62228537
+
+index3 =
+
+Image 3:PatchSize:9 window size:21 h:0.6
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 24.18178974; PSNR: 29.11061977
+
+index1 =
+
+Image 1:PatchSize:9 window size:21 h:0.7
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 23.88081711; PSNR: 27.7260666
+
+index2 =
+
+Image 2:PatchSize:9 window size:21 h:0.7
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 24.32457921; PSNR: 29.72909405
+
+index3 =
+
+Image 3:PatchSize:9 window size:21 h:0.7
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 23.31446822; PSNR: 28.24329825
+
+index1 =
+
+Image 1:PatchSize:9 window size:21 h:0.8
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 23.28809486; PSNR: 27.13334436
+
+index2 =
+
+Image 2:PatchSize:9 window size:21 h:0.8
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 23.57695952; PSNR: 28.98147437
+
+index3 =
+
+Image 3:PatchSize:9 window size:21 h:0.8
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 22.39320477; PSNR: 27.3220348
+
+index1 =
+
+Image 1:PatchSize:13 window size:5 h:0.4
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 25.33811228; PSNR: 29.18336177
+
+index2 =
+
+Image 2:PatchSize:13 window size:5 h:0.4
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 32.51008393; PSNR: 37.91459878
+
+index3 =
+
+Image 3:PatchSize:13 window size:5 h:0.4
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 27.0538113; PSNR: 31.98264133
+
+index1 =
+
+Image 1:PatchSize:13 window size:5 h:0.5
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 25.83929796; PSNR: 29.68454746
+
+index2 =
+
+Image 2:PatchSize:13 window size:5 h:0.5
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 31.7534777; PSNR: 37.15799254
+
+index3 =
+
+Image 3:PatchSize:13 window size:5 h:0.5
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 27.0853158; PSNR: 32.01414583
+
+index1 =
+
+Image 1:PatchSize:13 window size:5 h:0.6
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 26.24420304; PSNR: 30.08945253
+
+index2 =
+
+Image 2:PatchSize:13 window size:5 h:0.6
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 31.04573874; PSNR: 36.45025359
+
+index3 =
+
+Image 3:PatchSize:13 window size:5 h:0.6
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 27.03949684; PSNR: 31.96832687
+
+index1 =
+
+Image 1:PatchSize:13 window size:5 h:0.7
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 26.53324403; PSNR: 30.37849352
+
+index2 =
+
+Image 2:PatchSize:13 window size:5 h:0.7
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 30.39080303; PSNR: 35.79531787
+
+index3 =
+
+Image 3:PatchSize:13 window size:5 h:0.7
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 26.92754865; PSNR: 31.85637868
+
+index1 =
+
+Image 1:PatchSize:13 window size:5 h:0.8
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 26.70102291; PSNR: 30.54627241
+
+index2 =
+
+Image 2:PatchSize:13 window size:5 h:0.8
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 29.7688596; PSNR: 35.17337444
+
+index3 =
+
+Image 3:PatchSize:13 window size:5 h:0.8
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 26.77676027; PSNR: 31.7055903
+
+index1 =
+
+Image 1:PatchSize:13 window size:9 h:0.4
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 25.44174174; PSNR: 29.28699124
+
+index2 =
+
+Image 2:PatchSize:13 window size:9 h:0.4
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 32.00419363; PSNR: 37.40870847
+
+index3 =
+
+Image 3:PatchSize:13 window size:9 h:0.4
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 27.04962502; PSNR: 31.97845505
+
+index1 =
+
+Image 1:PatchSize:13 window size:9 h:0.5
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 25.93394555; PSNR: 29.77919504
+
+index2 =
+
+Image 2:PatchSize:13 window size:9 h:0.5
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 31.10015115; PSNR: 36.504666
+
+index3 =
+
+Image 3:PatchSize:13 window size:9 h:0.5
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 27.04449043; PSNR: 31.97332046
+
+index1 =
+
+Image 1:PatchSize:13 window size:9 h:0.6
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 26.26397612; PSNR: 30.10922562
+
+index2 =
+
+Image 2:PatchSize:13 window size:9 h:0.6
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 30.2935687; PSNR: 35.69808354
+
+index3 =
+
+Image 3:PatchSize:13 window size:9 h:0.6
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 26.93553278; PSNR: 31.86436281
+
+index1 =
+
+Image 1:PatchSize:13 window size:9 h:0.7
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 26.45376075; PSNR: 30.29901024
+
+index2 =
+
+Image 2:PatchSize:13 window size:9 h:0.7
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 29.57230097; PSNR: 34.97681581
+
+index3 =
+
+Image 3:PatchSize:13 window size:9 h:0.7
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 26.74250318; PSNR: 31.67133321
+
+index1 =
+
+Image 1:PatchSize:13 window size:9 h:0.8
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 26.51197152; PSNR: 30.35722102
+
+index2 =
+
+Image 2:PatchSize:13 window size:9 h:0.8
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 28.90283545; PSNR: 34.3073503
+
+index3 =
+
+Image 3:PatchSize:13 window size:9 h:0.8
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 26.50841674; PSNR: 31.43724677
+
+index1 =
+
+Image 1:PatchSize:13 window size:13 h:0.4
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 25.47922303; PSNR: 29.32447252
+
+index2 =
+
+Image 2:PatchSize:13 window size:13 h:0.4
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 31.69633491; PSNR: 37.10084975
+
+index3 =
+
+Image 3:PatchSize:13 window size:13 h:0.4
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 27.0389488; PSNR: 31.96777883
+
+index1 =
+
+Image 1:PatchSize:13 window size:13 h:0.5
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 25.94115706; PSNR: 29.78640655
+
+index2 =
+
+Image 2:PatchSize:13 window size:13 h:0.5
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 30.73065597; PSNR: 36.13517081
+
+index3 =
+
+Image 3:PatchSize:13 window size:13 h:0.5
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 27.00683859; PSNR: 31.93566862
+
+index1 =
+
+Image 1:PatchSize:13 window size:13 h:0.6
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 26.21070635; PSNR: 30.05595584
+
+index2 =
+
+Image 2:PatchSize:13 window size:13 h:0.6
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 29.89053156; PSNR: 35.2950464
+
+index3 =
+
+Image 3:PatchSize:13 window size:13 h:0.6
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 26.84977204; PSNR: 31.77860207
+
+index1 =
+
+Image 1:PatchSize:13 window size:13 h:0.7
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 26.34120624; PSNR: 30.18645573
+
+index2 =
+
+Image 2:PatchSize:13 window size:13 h:0.7
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 29.14644862; PSNR: 34.55096346
+
+index3 =
+
+Image 3:PatchSize:13 window size:13 h:0.7
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 26.59950262; PSNR: 31.52833265
+
+index1 =
+
+Image 1:PatchSize:13 window size:13 h:0.8
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 26.33827583; PSNR: 30.18352532
+
+index2 =
+
+Image 2:PatchSize:13 window size:13 h:0.8
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 28.45803927; PSNR: 33.86255411
+
+index3 =
+
+Image 3:PatchSize:13 window size:13 h:0.8
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 26.31306219; PSNR: 31.24189222
+
+index1 =
+
+Image 1:PatchSize:13 window size:17 h:0.4
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 25.50215748; PSNR: 29.34740698
+
+index2 =
+
+Image 2:PatchSize:13 window size:17 h:0.4
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 31.44114166; PSNR: 36.8456565
+
+index3 =
+
+Image 3:PatchSize:13 window size:17 h:0.4
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 27.02475579; PSNR: 31.95358582
+
+index1 =
+
+Image 1:PatchSize:13 window size:17 h:0.5
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 25.92859527; PSNR: 29.77384476
+
+index2 =
+
+Image 2:PatchSize:13 window size:17 h:0.5
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 30.44871124; PSNR: 35.85322608
+
+index3 =
+
+Image 3:PatchSize:13 window size:17 h:0.5
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 26.95735961; PSNR: 31.88618964
+
+index1 =
+
+Image 1:PatchSize:13 window size:17 h:0.6
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 26.1474444; PSNR: 29.99269389
+
+index2 =
+
+Image 2:PatchSize:13 window size:17 h:0.6
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 29.59320523; PSNR: 34.99772008
+
+index3 =
+
+Image 3:PatchSize:13 window size:17 h:0.6
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 26.74566939; PSNR: 31.67449942
+
+index1 =
+
+Image 1:PatchSize:13 window size:17 h:0.7
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 26.23505499; PSNR: 30.08030448
+
+index2 =
+
+Image 2:PatchSize:13 window size:17 h:0.7
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 28.83665674; PSNR: 34.24117158
+
+index3 =
+
+Image 3:PatchSize:13 window size:17 h:0.7
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 26.44872245; PSNR: 31.37755248
+
+index1 =
+
+Image 1:PatchSize:13 window size:17 h:0.8
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 26.18475506; PSNR: 30.03000455
+
+index2 =
+
+Image 2:PatchSize:13 window size:17 h:0.8
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 28.13668223; PSNR: 33.54119707
+
+index3 =
+
+Image 3:PatchSize:13 window size:17 h:0.8
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 26.12610499; PSNR: 31.05493502
+
+index1 =
+
+Image 1:PatchSize:13 window size:21 h:0.4
+
+For Noisy Input
+SNR: 24.53110808; PSNR: 28.37635758
+For Denoised Result
+SNR: 25.50997062; PSNR: 29.35522011
+
+index2 =
+
+Image 2:PatchSize:13 window size:21 h:0.4
+
+For Noisy Input
+SNR: 32.16672467; PSNR: 37.57123952
+For Denoised Result
+SNR: 31.24864512; PSNR: 36.65315996
+
+index3 =
+
+Image 3:PatchSize:13 window size:21 h:0.4
+
+For Noisy Input
+SNR: 26.70278096; PSNR: 31.63161099
+For Denoised Result
+SNR: 27.00869846; PSNR: 31.93752849
